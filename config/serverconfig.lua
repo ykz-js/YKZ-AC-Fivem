@@ -3,8 +3,8 @@ ConfigCS.Locale = 'es'
 ConfigCS.License           = "YKZ$Quad"
 
 -- Link de logs
-ConfigCS.GlobalBan         = "https://discord.com/api/webhooks/829324307921633280/ohIhtE_frEYvxVkJHmROak1MAAgcRBkGZSCxEqHcLuj7E2pkba_Tg1rP64AxubmL4DOk"
-ConfigCS.LOGS              = "https://discord.com/api/webhooks/829324307921633280/ohIhtE_frEYvxVkJHmROak1MAAgcRBkGZSCxEqHcLuj7E2pkba_Tg1rP64AxubmL4DOk"
+ConfigCS.GlobalBan         = ""
+ConfigCS.LOGS              = ""
 -- Permisos de administrador
 ConfigCS.Bypass            = {"YakuzaYKZ-ACadmin"}
 ConfigCS.OpenMenuAllowed   = {"YakuzaYKZ-ACadmin"}
